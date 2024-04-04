@@ -13,7 +13,7 @@ void setup() {
   DigiKeyboard.delay(200);
   DigiKeyboard.print("sudo shutdown -h now");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.print("kerbyA1411");
+  DigiKeyboard.print("replace with your password");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
  
 
